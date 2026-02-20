@@ -2,7 +2,7 @@
 //  main.cpp
 //  GiocoDellOcaPazza
 //
-//  Created by Francesco Mollica & Umberto Case.
+//  Created by Francesco Mollica 'alone in the light'
 //  Copyright © 2018. All rights reserved.
 //
 #include <iostream>
