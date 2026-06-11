@@ -3,7 +3,7 @@ Realized in C++ for the First Year - Computer Science Degree, with unusual rules
 
 MIT License
 
-Copyright (c) 2026 Francesco Mollica
+Copyright (c) 2018 Francesco Mollica
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
